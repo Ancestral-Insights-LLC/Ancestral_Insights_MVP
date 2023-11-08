@@ -2,7 +2,7 @@ version: 1.0
 
 runtime:
   name: python
-  version: 3.7 # Supported Python versions are 3.7, 3.8, and 3.9
+  version: 3.0 # Supported Python versions are 3.7, 3.8, and 3.9
 
 build:
   commands:
