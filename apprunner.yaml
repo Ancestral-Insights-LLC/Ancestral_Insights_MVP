@@ -1,0 +1,19 @@
+runtime:
+  name: nodejs
+  version: 14
+
+build:
+  commands:
+    install:
+      - npm install
+
+artifacts:
+  base-directory: ./
+  files:
+    - ./dist/**/*
+
+routes:
+  web: 
+    healthcheck-path: /
+    healthcheck-interval: 5
+    healthcheck-timeout: 2
