@@ -1,19 +1,21 @@
+version: 1.0
+
 runtime:
-  name: nodejs
-  version: 14
+  name: python
+  version: 3.7 # Supported Python versions are 3.7, 3.8, and 3.9
 
 build:
   commands:
-    install:
-      - npm install
-
-artifacts:
-  base-directory: ./
-  files:
-    - ./dist/**/*
+    # No build commands needed for Python
 
 routes:
-  web: 
-    healthcheck-path: /
+  web:
+    healthcheck-path: / 
     healthcheck-interval: 5
     healthcheck-timeout: 2
+    environment-variables:
+      PORT: 8080
+
+# Specify the directory containing your Python application
+artifacts:
+  location: /
