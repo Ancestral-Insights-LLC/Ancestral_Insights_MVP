@@ -1,0 +1,22 @@
+{
+  "name": "ancestralinsightsmvp",
+  "version": "1.0.0",
+  "description": "Ancestral Insights MVP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ancestral-Insights-LLC/Ancestral_Insights_MVP.git"
+  },
+  "keywords": ["MVP", "prgenealogy"],
+  "author": "Rebecca J. Walbecq",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
