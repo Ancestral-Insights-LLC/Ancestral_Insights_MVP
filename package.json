@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Ancestral-Insights-LLC/Ancestral_Insights_MVP.git"
   },
-  "keywords": ["MVP", "prgenealogy"],
+  "keywords": ["MVP", "genealogy"],
   "author": "Rebecca J. Walbecq",
   "license": "ISC",
   "dependencies": {
