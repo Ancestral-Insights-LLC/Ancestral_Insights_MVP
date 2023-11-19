@@ -1,0 +1,89 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../currency_dashboard"
+		},
+		{
+			"path": "../FamilySearchLists"
+		},
+		{
+			"path": "../gedcom-analyzer"
+		},
+		{
+			"path": "../gedcomx"
+		},
+		{
+			"path": "../genealogy"
+		},
+		{
+			"path": "../GenealogyAggregator"
+		},
+		{
+			"path": "../geneapro"
+		},
+		{
+			"path": "../GeoFinder"
+		},
+		{
+			"path": "../getting-started-app"
+		},
+		{
+			"path": "../grant"
+		},
+		{
+			"path": "../Historical_Datasets"
+		},
+		{
+			"path": "../historicaldate"
+		},
+		{
+			"path": "../History_Visualization"
+		},
+		{
+			"path": "../Leaflet.CoordinatedImagePreview"
+		},
+		{
+			"path": "../Leaflet.CountrySelect"
+		},
+		{
+			"path": "../Leaflet.TileLegend"
+		},
+		{
+			"path": "../Olympics-Data-Analysis"
+		},
+		{
+			"path": "../pyGenealogical-Tools"
+		},
+		{
+			"path": "../python3-NOAA-StormEvents-CSV-dataset"
+		},
+		{
+			"path": "../python-gedscope"
+		},
+		{
+			"path": "../scrape-a-grave"
+		},
+		{
+			"path": "../text_discovery_nn"
+		},
+		{
+			"path": "../TextMining-anthonykrich"
+		},
+		{
+			"path": "../Visual-History-Storyteller"
+		},
+		{
+			"path": "../wikidata-to-gedcom"
+		},
+		{
+			"path": "../wiki-scraper"
+		},
+		{
+			"path": "../wikitree-microdata"
+		}
+	],
+	"settings": {}
+}
